@@ -14,12 +14,12 @@
     "url": "https://github.com/pkosiec/mongo-seeding"
   },
   "dependencies": {
-    "mongodb": "^3.3.2",
-    "typeorm": "^0.2.19"
+    "mongodb": "^3.3.3",
+    "typeorm": "^0.2.20"
   },
   "devDependencies": {
-    "@types/mongodb": "^3.3.4",
-    "@types/node": "^10.14.19",
-    "typescript": "^3.6.3"
+    "@types/mongodb": "^3.3.6",
+    "@types/node": "^10.17.0",
+    "typescript": "^3.6.4"
   }
 }

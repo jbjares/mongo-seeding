@@ -70,17 +70,17 @@
     "extend": "^3.0.2",
     "mongo-seeding": "^3.4.0-alpha.0",
     "ts-node": "^8.4.1",
-    "typescript": "^3.6.3"
+    "typescript": "^3.6.4"
   },
   "devDependencies": {
     "@types/command-line-args": "^5.0.0",
     "@types/extend": "^3.0.1",
-    "@types/jest": "^24.0.18",
-    "@types/mongodb": "^3.3.4",
-    "@types/node": "^12.7.9",
+    "@types/jest": "^24.0.20",
+    "@types/mongodb": "^3.3.6",
+    "@types/node": "^12.11.7",
     "codecov": "^3.6.1",
     "jest": "^24.9.0",
-    "mongodb": "^3.3.2",
+    "mongodb": "^3.3.3",
     "ts-jest": "^24.1.0"
   },
   "jest": {
